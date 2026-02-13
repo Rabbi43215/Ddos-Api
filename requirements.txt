@@ -1,0 +1,12 @@
+uvicorn
+fastapi
+pydantic
+cloudscraper
+fake-useragent
+undetected-chromedriver
+selenium
+dnspython
+psutil
+cryptography
+brotli
+python-telegram-bot
